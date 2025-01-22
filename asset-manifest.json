@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Groq.github.io/static/css/main.29ed26d6.css",
+    "main.js": "/Groq.github.io/static/js/main.dd18abf4.js",
+    "static/js/146.615814b0.chunk.js": "/Groq.github.io/static/js/146.615814b0.chunk.js",
+    "index.html": "/Groq.github.io/index.html",
+    "main.29ed26d6.css.map": "/Groq.github.io/static/css/main.29ed26d6.css.map",
+    "main.dd18abf4.js.map": "/Groq.github.io/static/js/main.dd18abf4.js.map",
+    "146.615814b0.chunk.js.map": "/Groq.github.io/static/js/146.615814b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29ed26d6.css",
+    "static/js/main.dd18abf4.js"
+  ]
+}
